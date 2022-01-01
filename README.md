@@ -1,3 +1,2 @@
-# dio-desafio-github-primeiro-repositorio
-Desafio de projeto sobre Git/GitHub
-# Repositório do desafio de projeto sobre  Git/GitHub da DIO
+#  Repositório do desafio de projeto sobre Git/GitHub da DIO. (Bootcamp Amdocs JAVA Developer).
+Desafio de projeto sobre Git/GitHub.
